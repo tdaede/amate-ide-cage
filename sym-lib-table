@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "amate-ide-cage")(type "KiCad")(uri "${KIPRJMOD}/amate-ide-cage.kicad_sym")(options "")(descr ""))
+)
